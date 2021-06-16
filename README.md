@@ -1,11 +1,11 @@
 # hw4
-# Eqipment
+## Eqipment
 PC or notebook B_L4S5I_IOT01A XBee chips PING Encoder Boe Bot Car OpenMV H7 Plus board
 
-# Development
+## Development
 C++
 
-# Discription 
+## Discription 
 #XBee Controlled BB Car
 
 PC/Python sends a RPC command though XBee (with position parameters) to reverse park a BB car.
